@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.palladiosimulator.supporting.workarounds.j2ee.feature"
+      label="Palladio J2EE Workaround Feature"
+      version="0.1.0.qualifier"
+      provider-name="palladiosimulator.org"
+      plugin="org.palladiosimulator.branding"
+      license-feature="org.palladiosimulator.license"
+      license-feature-version="2.0.0">
+
+   <description url="http://www.palladiosimulator.org">
+      This feature contains a workaround for PALLADIO-436. If certain J2EE bundles are installed, an error during the OCL validation fires. This feature should be installed if J2EE bundles are installed AND you want to make use of OCL validation. The feature should be removed as soon as Eclipse bug 545958 (https://bugs.eclipse.org/bugs/show_bug.cgi?id=545958) is resolved.
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.palladiosimulator.supporting.workarounds.j2ee.activator"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
