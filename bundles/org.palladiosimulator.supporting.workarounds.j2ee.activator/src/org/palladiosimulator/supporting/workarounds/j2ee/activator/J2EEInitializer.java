@@ -1,4 +1,4 @@
-package org.palladiosimulator.product.j2ee.activator;
+package org.palladiosimulator.supporting.workarounds.j2ee.activator;
 
 import org.eclipse.jst.j2ee.internal.J2EEInit;
 import org.eclipse.ui.IStartup;
