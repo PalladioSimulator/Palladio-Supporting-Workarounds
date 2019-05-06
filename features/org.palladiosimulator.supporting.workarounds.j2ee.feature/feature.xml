@@ -20,6 +20,10 @@
       %license
    </license>
 
+   <requires>
+      <import plugin="org.palladiosimulator.branding"/>
+   </requires>
+
    <plugin
          id="org.palladiosimulator.supporting.workarounds.j2ee.activator"
          download-size="0"
