@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EPackage Registry Initializer
+Bundle-SymbolicName: org.palladiosimulator.supporting.workarounds.epackageinit;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Automatic-Module-Name: org.palladiosimulator.supporting.workarounds.epackageinit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.emf.ecore;bundle-version="2.13.0"
