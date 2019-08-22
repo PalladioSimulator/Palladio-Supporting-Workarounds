@@ -14,7 +14,6 @@
 	
 	<modules>
 		<module>org.palladiosimulator.supporting.workarounds.epackageinit</module>
-		<module>org.palladiosimulator.supporting.workarounds.j2ee.activator</module>
 	</modules>
 	
 </project>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.palladiosimulator.supporting.workarounds.j2ee.feature_0.1.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.j2ee.feature" version="0.1.0.qualifier">
-      <category name="org.palladiosimulator.support.category"/>
-   </feature>
-   <feature url="features/org.palladiosimulator.supporting.workarounds.j2ee.feature.source_0.1.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.j2ee.feature.source" version="0.1.0.qualifier">
-      <category name="org.palladiosimulator.support.source.category"/>
-   </feature>
    <feature url="features/org.palladiosimulator.supporting.workarounds.epackageinit.feature_0.1.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.epackageinit.feature" version="0.1.0.qualifier">
       <category name="org.palladiosimulator.support.category"/>
    </feature>
