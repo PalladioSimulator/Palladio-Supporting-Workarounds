@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.palladiosimulator.supporting.workarounds.epackageinit.feature"
+      label="Palladio EPackage Registry Initializer Workaround Feature"
+      version="0.1.0.qualifier"
+      provider-name="palladiosimulator.org"
+      plugin="org.palladiosimulator.branding"
+      license-feature="org.palladiosimulator.license.epl2"
+      license-feature-version="1.0.0">
+
+   <description url="http://www.palladiosimulator.org">
+      This feature contains a workaround for PALLADIO-436. If certain bundles are installed, an error during the OCL validation fires. This feature should be installed if you are experiencing Exceptions during OCL validation. The feature should be removed as soon as Eclipse bug 545958 (https://bugs.eclipse.org/bugs/show_bug.cgi?id=545958) is resolved.
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.palladiosimulator.branding"/>
+   </requires>
+
+   <plugin
+         id="org.palladiosimulator.supporting.workarounds.epackageinit"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

@@ -13,7 +13,7 @@
 	<name>Feature Modules</name>
 	
 	<modules>
-		<module>org.palladiosimulator.supporting.workarounds.j2ee.feature</module>
+		<module>org.palladiosimulator.supporting.workarounds.epackageinit.feature</module>
 	</modules>
 	
 </project>
