@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.palladiosimulator.supporting.workarounds.epackageinit.feature_4.2.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.epackageinit.feature" version="4.2.0.qualifier">
+   <feature url="features/org.palladiosimulator.supporting.workarounds.epackageinit.feature_4.3.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.epackageinit.feature" version="4.3.0.qualifier">
       <category name="org.palladiosimulator.support.category"/>
    </feature>
-   <feature url="features/org.palladiosimulator.supporting.workarounds.epackageinit.feature.source_4.2.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.epackageinit.feature.source" version="4.2.0.qualifier">
+   <feature url="features/org.palladiosimulator.supporting.workarounds.epackageinit.feature.source_4.3.0.qualifier.jar" id="org.palladiosimulator.supporting.workarounds.epackageinit.feature.source" version="4.3.0.qualifier">
       <category name="org.palladiosimulator.support.source.category"/>
    </feature>
    <category-def name="org.palladiosimulator.support.category" label="Palladio Supporting Features">
